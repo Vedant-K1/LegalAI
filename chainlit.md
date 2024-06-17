@@ -1,0 +1,3 @@
+# Welcome to LegalAI! 🚀🤖
+
+LegalAI is an advanced multilingual chatbot designed to provide legal assistance and information on Indian laws. It leverages the power of Nvidia AI endpoints and utilizes a Retrieval-Augmented Generation (RAG) pipeline to offer accurate and context-specific responses. The chatbot is equipped to handle queries in any Indian language, ensuring accessibility and inclusivity for users across the country.
