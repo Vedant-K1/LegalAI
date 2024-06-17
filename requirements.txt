@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-nvidia-ai-endpoints
+iso639
+chainlit
+unstructured[pdf]
+lingua-language-detector
